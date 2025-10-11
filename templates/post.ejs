@@ -1,0 +1,7 @@
+<%- include('../public/_header.html') %>
+<article class="post">
+  <h1><%= post.title %></h1>
+  <p class="meta">Published <%= post.date %></p>
+  <div class="post-content"><%- post.html %></div>
+</article>
+<%- include('../public/_footer.html') %>

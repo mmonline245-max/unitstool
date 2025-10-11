@@ -1,0 +1,653 @@
+[
+  {
+    "id": 1,
+    "name": "Length Converter",
+    "slug": "length-converter",
+    "category": "Unit Converters",
+    "type": "generic",
+    "short": "Convert between meters, feet, inches, kilometers, miles, etc.",
+    "description": "Convert between meters, feet, inches, kilometers, miles, etc. Use this free tool to quickly compute results.",
+    "keywords": [
+      "length",
+      "converter"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Weight Converter",
+    "slug": "weight-converter",
+    "category": "Math Tools",
+    "type": "generic",
+    "short": "Convert between kilograms, pounds, ounces, grams, stones, etc.",
+    "description": "Convert between kilograms, pounds, ounces, grams, stones, etc. Use this free tool to quickly compute results.",
+    "keywords": [
+      "weight",
+      "converter"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Temperature Converter",
+    "slug": "temperature-converter",
+    "category": "Finance Calculators",
+    "type": "generic",
+    "short": "Convert between Celsius, Fahrenheit and Kelvin.",
+    "description": "Convert between Celsius, Fahrenheit and Kelvin. Use this free tool to quickly compute results.",
+    "keywords": [
+      "temperature",
+      "converter"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Volume Converter",
+    "slug": "volume-converter",
+    "category": "Health & Fitness",
+    "type": "generic",
+    "short": "Convert liters, milliliters, cups, gallons.",
+    "description": "Convert liters, milliliters, cups, gallons. Use this free tool to quickly compute results.",
+    "keywords": [
+      "volume",
+      "converter"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Area Converter",
+    "slug": "area-converter",
+    "category": "Date & Time Tools",
+    "type": "generic",
+    "short": "Convert square meters, acres, square feet.",
+    "description": "Convert square meters, acres, square feet. Use this free tool to quickly compute results.",
+    "keywords": [
+      "area",
+      "converter"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Speed Converter",
+    "slug": "speed-converter",
+    "category": "Physics & Engineering",
+    "type": "generic",
+    "short": "km/h, mph, m/s conversions.",
+    "description": "km/h, mph, m/s conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "speed",
+      "converter"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Time Converter",
+    "slug": "time-converter",
+    "category": "Cooking & Food",
+    "type": "generic",
+    "short": "Hours, minutes, seconds.",
+    "description": "Hours, minutes, seconds. Use this free tool to quickly compute results.",
+    "keywords": [
+      "time",
+      "converter"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Data Unit Converter",
+    "slug": "data-unit-converter",
+    "category": "Tech & Digital Tools",
+    "type": "generic",
+    "short": "Bytes, KB, MB, GB, TB conversions.",
+    "description": "Bytes, KB, MB, GB, TB conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "data",
+      "unit",
+      "converter"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Currency Converter",
+    "slug": "currency-converter",
+    "category": "Construction Calculators",
+    "type": "generic",
+    "short": "Convert between currencies (rates via API).",
+    "description": "Convert between currencies (rates via API). Use this free tool to quickly compute results.",
+    "keywords": [
+      "currency",
+      "converter"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Power Converter",
+    "slug": "power-converter",
+    "category": "Miscellaneous",
+    "type": "generic",
+    "short": "Watt, horsepower conversions.",
+    "description": "Watt, horsepower conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "power",
+      "converter"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pressure Converter",
+    "slug": "pressure-converter",
+    "category": "Unit Converters",
+    "type": "generic",
+    "short": "Pa, psi, bar conversions.",
+    "description": "Pa, psi, bar conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "pressure",
+      "converter"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Torque Calculator",
+    "slug": "torque-calculator",
+    "category": "Math Tools",
+    "type": "generic",
+    "short": "Force x distance calculations.",
+    "description": "Force x distance calculations. Use this free tool to quickly compute results.",
+    "keywords": [
+      "torque",
+      "calculator"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ohm's Law Calculator",
+    "slug": "ohms-law-calculator",
+    "category": "Finance Calculators",
+    "type": "generic",
+    "short": "Voltage, current, resistance calculations.",
+    "description": "Voltage, current, resistance calculations. Use this free tool to quickly compute results.",
+    "keywords": [
+      "ohm's",
+      "law",
+      "calculator"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Voltage Converter",
+    "slug": "voltage-converter",
+    "category": "Health & Fitness",
+    "type": "generic",
+    "short": "Watt to volt/power relations.",
+    "description": "Watt to volt/power relations. Use this free tool to quickly compute results.",
+    "keywords": [
+      "voltage",
+      "converter"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "BMI Calculator",
+    "slug": "bmi-calculator",
+    "category": "Date & Time Tools",
+    "type": "generic",
+    "short": "Calculate Body Mass Index (BMI).",
+    "description": "Calculate Body Mass Index (BMI). Use this free tool to quickly compute results.",
+    "keywords": [
+      "bmi",
+      "calculator"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Body Fat Calculator",
+    "slug": "body-fat-calculator",
+    "category": "Physics & Engineering",
+    "type": "generic",
+    "short": "Estimate body fat percentage.",
+    "description": "Estimate body fat percentage. Use this free tool to quickly compute results.",
+    "keywords": [
+      "body",
+      "fat",
+      "calculator"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Calories Burned Calculator",
+    "slug": "calories-burned-calculator",
+    "category": "Cooking & Food",
+    "type": "generic",
+    "short": "Estimate calories burned during activity.",
+    "description": "Estimate calories burned during activity. Use this free tool to quickly compute results.",
+    "keywords": [
+      "calories",
+      "burned",
+      "calculator"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "BMR Calculator",
+    "slug": "bmr-calculator",
+    "category": "Tech & Digital Tools",
+    "type": "generic",
+    "short": "Basal Metabolic Rate estimate.",
+    "description": "Basal Metabolic Rate estimate. Use this free tool to quickly compute results.",
+    "keywords": [
+      "bmr",
+      "calculator"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "GPA Calculator",
+    "slug": "gpa-calculator",
+    "category": "Construction Calculators",
+    "type": "generic",
+    "short": "Calculate GPA from grades.",
+    "description": "Calculate GPA from grades. Use this free tool to quickly compute results.",
+    "keywords": [
+      "gpa",
+      "calculator"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Calories Intake Calculator",
+    "slug": "calories-intake-calculator",
+    "category": "Miscellaneous",
+    "type": "generic",
+    "short": "Estimate daily calorie needs.",
+    "description": "Estimate daily calorie needs. Use this free tool to quickly compute results.",
+    "keywords": [
+      "calories",
+      "intake",
+      "calculator"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Loan Calculator",
+    "slug": "loan-calculator",
+    "category": "Unit Converters",
+    "type": "generic",
+    "short": "Estimate monthly loan payments.",
+    "description": "Estimate monthly loan payments. Use this free tool to quickly compute results.",
+    "keywords": [
+      "loan",
+      "calculator"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Mortgage Calculator",
+    "slug": "mortgage-calculator",
+    "category": "Math Tools",
+    "type": "generic",
+    "short": "Mortgage monthly payments & amortization.",
+    "description": "Mortgage monthly payments & amortization. Use this free tool to quickly compute results.",
+    "keywords": [
+      "mortgage",
+      "calculator"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Compound Interest Calculator",
+    "slug": "compound-interest-calculator",
+    "category": "Finance Calculators",
+    "type": "generic",
+    "short": "Future value with compound interest.",
+    "description": "Future value with compound interest. Use this free tool to quickly compute results.",
+    "keywords": [
+      "compound",
+      "interest",
+      "calculator"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Simple Interest Calculator",
+    "slug": "simple-interest-calculator",
+    "category": "Health & Fitness",
+    "type": "generic",
+    "short": "Calculate simple interest.",
+    "description": "Calculate simple interest. Use this free tool to quickly compute results.",
+    "keywords": [
+      "simple",
+      "interest",
+      "calculator"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Savings Goal Calculator",
+    "slug": "savings-goal-calculator",
+    "category": "Date & Time Tools",
+    "type": "generic",
+    "short": "How much to save monthly to reach a goal.",
+    "description": "How much to save monthly to reach a goal. Use this free tool to quickly compute results.",
+    "keywords": [
+      "savings",
+      "goal",
+      "calculator"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Currency Rounding Helper",
+    "slug": "currency-rounding-helper",
+    "category": "Physics & Engineering",
+    "type": "generic",
+    "short": "Round currency totals for payments.",
+    "description": "Round currency totals for payments. Use this free tool to quickly compute results.",
+    "keywords": [
+      "currency",
+      "rounding",
+      "helper"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Percentage Calculator",
+    "slug": "percentage-calculator",
+    "category": "Cooking & Food",
+    "type": "generic",
+    "short": "Percent increase/decrease & of value.",
+    "description": "Percent increase/decrease & of value. Use this free tool to quickly compute results.",
+    "keywords": [
+      "percentage",
+      "calculator"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Tip Calculator",
+    "slug": "tip-calculator",
+    "category": "Tech & Digital Tools",
+    "type": "generic",
+    "short": "Split the bill and tip amounts.",
+    "description": "Split the bill and tip amounts. Use this free tool to quickly compute results.",
+    "keywords": [
+      "tip",
+      "calculator"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Discount Calculator",
+    "slug": "discount-calculator",
+    "category": "Construction Calculators",
+    "type": "generic",
+    "short": "Find sale price after discount.",
+    "description": "Find sale price after discount. Use this free tool to quickly compute results.",
+    "keywords": [
+      "discount",
+      "calculator"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Percent Change Calculator",
+    "slug": "percent-change-calculator",
+    "category": "Miscellaneous",
+    "type": "generic",
+    "short": "Percent increase/decrease between values.",
+    "description": "Percent increase/decrease between values. Use this free tool to quickly compute results.",
+    "keywords": [
+      "percent",
+      "change",
+      "calculator"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Date Difference Calculator",
+    "slug": "date-difference-calculator",
+    "category": "Unit Converters",
+    "type": "generic",
+    "short": "Days/Weeks/Months between dates.",
+    "description": "Days/Weeks/Months between dates. Use this free tool to quickly compute results.",
+    "keywords": [
+      "date",
+      "difference",
+      "calculator"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Age Calculator",
+    "slug": "age-calculator",
+    "category": "Math Tools",
+    "type": "generic",
+    "short": "Calculate exact age from date of birth.",
+    "description": "Calculate exact age from date of birth. Use this free tool to quickly compute results.",
+    "keywords": [
+      "age",
+      "calculator"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Time Zone Converter",
+    "slug": "time-zone-converter",
+    "category": "Finance Calculators",
+    "type": "generic",
+    "short": "Convert times across zones.",
+    "description": "Convert times across zones. Use this free tool to quickly compute results.",
+    "keywords": [
+      "time",
+      "zone",
+      "converter"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Date Add/Subtract",
+    "slug": "date-add/subtract",
+    "category": "Health & Fitness",
+    "type": "generic",
+    "short": "Add or subtract days/months to a date.",
+    "description": "Add or subtract days/months to a date. Use this free tool to quickly compute results.",
+    "keywords": [
+      "date",
+      "add/subtract"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Cooking Measurement Converter",
+    "slug": "cooking-measurement-converter",
+    "category": "Date & Time Tools",
+    "type": "generic",
+    "short": "Cups, tbsp, tsp, grams conversions.",
+    "description": "Cups, tbsp, tsp, grams conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "cooking",
+      "measurement",
+      "converter"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Cooking Temperature Converter",
+    "slug": "cooking-temperature-converter",
+    "category": "Physics & Engineering",
+    "type": "generic",
+    "short": "Oven temps C/F conversions.",
+    "description": "Oven temps C/F conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "cooking",
+      "temperature",
+      "converter"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ingredient Weight Converter",
+    "slug": "ingredient-weight-converter",
+    "category": "Cooking & Food",
+    "type": "generic",
+    "short": "Volume to weight for common ingredients.",
+    "description": "Volume to weight for common ingredients. Use this free tool to quickly compute results.",
+    "keywords": [
+      "ingredient",
+      "weight",
+      "converter"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Fuel Economy Converter",
+    "slug": "fuel-economy-converter",
+    "category": "Tech & Digital Tools",
+    "type": "generic",
+    "short": "mpg to L/100km conversions.",
+    "description": "mpg to L/100km conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "fuel",
+      "economy",
+      "converter"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Construction Material Estimator",
+    "slug": "construction-material-estimator",
+    "category": "Construction Calculators",
+    "type": "generic",
+    "short": "Estimate wood, concrete, paint quantities.",
+    "description": "Estimate wood, concrete, paint quantities. Use this free tool to quickly compute results.",
+    "keywords": [
+      "construction",
+      "material",
+      "estimator"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Concrete Volume Calculator",
+    "slug": "concrete-volume-calculator",
+    "category": "Miscellaneous",
+    "type": "generic",
+    "short": "Estimate concrete volume for pour.",
+    "description": "Estimate concrete volume for pour. Use this free tool to quickly compute results.",
+    "keywords": [
+      "concrete",
+      "volume",
+      "calculator"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Paint Coverage Calculator",
+    "slug": "paint-coverage-calculator",
+    "category": "Unit Converters",
+    "type": "generic",
+    "short": "Estimate paint needed for area.",
+    "description": "Estimate paint needed for area. Use this free tool to quickly compute results.",
+    "keywords": [
+      "paint",
+      "coverage",
+      "calculator"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Hex to RGB Converter",
+    "slug": "hex-to-rgb-converter",
+    "category": "Math Tools",
+    "type": "generic",
+    "short": "Convert color codes.",
+    "description": "Convert color codes. Use this free tool to quickly compute results.",
+    "keywords": [
+      "hex",
+      "to",
+      "rgb",
+      "converter"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "URL Encoder/Decoder",
+    "slug": "url-encoder/decoder",
+    "category": "Finance Calculators",
+    "type": "generic",
+    "short": "Encode or decode URL components.",
+    "description": "Encode or decode URL components. Use this free tool to quickly compute results.",
+    "keywords": [
+      "url",
+      "encoder/decoder"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Hexadecimal Calculator",
+    "slug": "hexadecimal-calculator",
+    "category": "Health & Fitness",
+    "type": "generic",
+    "short": "Hex math and conversions.",
+    "description": "Hex math and conversions. Use this free tool to quickly compute results.",
+    "keywords": [
+      "hexadecimal",
+      "calculator"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Random Number Generator",
+    "slug": "random-number-generator",
+    "category": "Date & Time Tools",
+    "type": "generic",
+    "short": "Generate random integers.",
+    "description": "Generate random integers. Use this free tool to quickly compute results.",
+    "keywords": [
+      "random",
+      "number",
+      "generator"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Mortgage Affordability Calculator",
+    "slug": "mortgage-affordability-calculator",
+    "category": "Physics & Engineering",
+    "type": "generic",
+    "short": "Estimate mortgage affordability.",
+    "description": "Estimate mortgage affordability. Use this free tool to quickly compute results.",
+    "keywords": [
+      "mortgage",
+      "affordability",
+      "calculator"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Loan Payoff Date Calculator",
+    "slug": "loan-payoff-date-calculator",
+    "category": "Cooking & Food",
+    "type": "generic",
+    "short": "Estimate when loan will be paid off.",
+    "description": "Estimate when loan will be paid off. Use this free tool to quickly compute results.",
+    "keywords": [
+      "loan",
+      "payoff",
+      "date",
+      "calculator"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "BMI Tracker CSV Export",
+    "slug": "bmi-tracker-csv-export",
+    "category": "Tech & Digital Tools",
+    "type": "generic",
+    "short": "Track BMI history and export to CSV.",
+    "description": "Track BMI history and export to CSV. Use this free tool to quickly compute results.",
+    "keywords": [
+      "bmi",
+      "tracker",
+      "csv",
+      "export"
+    ]
+  }
+]

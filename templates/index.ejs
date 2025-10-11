@@ -1,0 +1,40 @@
+<%- include('../public/_header.html') %>
+<section class="hero">
+  <h1>Free Online Calculators & Converters for Every Need</h1>
+  <p class="tagline"><%= site.tagline %></p>
+  <div class="search-wrap">
+    <input id="search" placeholder="Search tools... (try 'BMI' or 'currency')" />
+  </div>
+</section>
+
+<section class="categories">
+  <% if (!currentCategory) { %>
+    <% const cats = [...new Set(tools.map(t=>t.category))]; %>
+    <% cats.forEach(function(cat){ %>
+      <a class="category-card" href="/category-<%= cat.toLowerCase().replace(/\s+/g,'-') %>.html">
+        <div class="cat-title"><%= cat %></div>
+        <div class="cat-desc">Quick tools for <%= cat %></div>
+      </a>
+    <% }) %>
+  <% } else { %>
+    <h2><%= currentCategory %></h2>
+  <% } %>
+</section>
+
+<section class="featured">
+  <h2>Featured Tools</h2>
+  <div class="grid">
+    <% tools.slice(0,12).forEach(function(t){ %>
+      <a class="tool-card" href="/tools/<%= t.slug %>.html">
+        <h3><%= t.name %></h3>
+        <p><%= t.short %></p>
+      </a>
+    <% }) %>
+  </div>
+</section>
+
+<section class="seo-block">
+  <p>Free, fast, and accurate — UnitsTool provides online calculators and converters to help you with day-to-day calculations. From finance to cooking and engineering — find the tool you need and get results instantly.</p>
+</section>
+
+<%- include('../public/_footer.html') %>
